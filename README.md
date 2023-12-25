@@ -39,17 +39,14 @@ Our dataset combines hybrid data from the FIFA game spanning from 2018 to 2022, 
 
 ## Instructions
 
-1. **Environment Setup:**
-   - Install the required dependencies listed in the `requirements.txt` file.
-
-2. **Data Exploration:**
+1. **Data Exploration:**
    - Run the data exploration script to understand player distribution and evolution across leagues.
 
-3. **Player Performance Analysis:**
+2. **Player Performance Analysis:**
    - Execute the player performance analysis script to compare player statistics and track trends.
 
-4. **Visualization:**
+3. **Visualization:**
    - Explore the visualizations to gain a deeper understanding of the data and model outcomes.
 
-5. **Machine Learning Models:**
+4. **Machine Learning Models:**
    - Run the machine learning scripts to build predictive models and generate insights.
